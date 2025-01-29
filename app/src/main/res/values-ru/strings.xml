@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="what_do_you_want_to_watch">Что вы хотите посмотреть?</string>
+    <string name="search">Поиск</string>
+    <string name="home">Главная</string>
+    <string name="watchlist">Список</string>
+    <string name="upcoming">Предстоящие</string>
+    <string name="top_rated">Топ</string>
+    <string name="popular">Популярные</string>
+    <string name="watch_list">Список</string>
+    <string name="detail">Детали</string>
+    <string name="load_more">Более</string>
+    <string name="there_is_no_movie_yet">Еще нет фильма!</string>
+    <string name="find_your_movie_by_type_title_categories_years_etc">Найдите свой фильм по типу, названию, категориям, годам и т. д.</string>
+    <string name="we_are_sorry_we_can_not_find_the_movie">Извините, мы не можем найти этот фильм :(</string>
+    <string name="about_movie">О фильме</string>
+    <string name="reviews">Отзывы</string>
+    <string name="cast">Актерский состав</string>
+</resources>
